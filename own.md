@@ -558,3 +558,5 @@
 | 556 | Caravan SandWitch | Epic |
 | 557 | Cardpocalypse Standard Edition | Epic |
 | 558 | Dokimon Quest | Steam |
+| 559 | Breathedge | Epic |
+| 560 | Rival Stars Horse Racing: Desktop Edition | Epic |
